@@ -1,0 +1,3 @@
+dist/*
+inteltk.egg-info/*
+venv/* 
